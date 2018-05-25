@@ -1,0 +1,27 @@
+div {
+    display: block;
+    background-color: ghostwhite;
+    color: slategrey;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+} 
+
+    p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    font-weight: 400;
+    display: block;
+}
+
+    h3 {
+    font-family: cursive;
+    font-size: large;
+    font-weight: 800;
+    display: block;
+}
+
+img {
+    width: 80%;
+    height: auto;
+}
